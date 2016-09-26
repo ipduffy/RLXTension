@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{FC4F0E99-325B-4B19-94F9-347F6CB2EBA7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>VirusTotalXTension</RootNamespace>
+    <RootNamespace>RLXTension</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <ProjectName>RLXTension</ProjectName>
   </PropertyGroup>
